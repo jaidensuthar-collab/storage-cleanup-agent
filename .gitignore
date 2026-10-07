@@ -1,0 +1,6 @@
+logs/
+reports/
+manifests/
+quarantine/
+__pycache__/
+.DS_Store
